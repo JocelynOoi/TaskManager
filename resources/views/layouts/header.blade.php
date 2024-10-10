@@ -1,6 +1,6 @@
 <nav class="header">
     <ul>
-        <li><a href=""></a>Task List</li>
-        <li><a href=""></a>Add Task</li>
+        <li><a href="">Task List</a></li>
+        <li><a href="">Add Task</a></li>
     </ul>
 </nav>
